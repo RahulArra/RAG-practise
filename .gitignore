@@ -1,0 +1,46 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Hugging Face Cache
+.cache/
+huggingface/
+
+# ChromaDB
+chroma_db/
+chroma/
+
+# FAISS
+*.faiss
+*.pkl
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Temporary Files
+temp/
+tmp/
